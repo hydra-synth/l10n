@@ -11,7 +11,7 @@
     },
     "info": {
         "title": "hydra",
-        "subtitle": "live coding networked visuals",
+        "subtitle": "adding a new translation - live coding networked visuals",
         "description": "Hydra is a platform for live coding visuals, in which each connected browser window can be used as a node of a modular and distributed video synthesizer.",
         "get-started-title": "To get started:",
         "get-started-list": [
