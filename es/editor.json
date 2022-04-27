@@ -1,19 +1,37 @@
 {
   "language-name": "español",
   "toolbar": {
+    "run": "Ejecutar todo (ctrl+shift+enter)",
+    "upload": "Subir a la galería",
+    "clear": "Vaciar editor",
+    "shuffle": "Mostrar un sketch aleatorio",
+    "random": "Aplicar un cambio aleatorio",
+    "show-info": "Mostrar información",
+    "hide-info": "Esconder información"
   },
   "info": {
+    "title": "hydra",
+    "subtitle": "sintetizador de video en tiempo real",
+    "description": "Hydra es un sintetizador de video y entorno de codificación en vivo (livecoding) que funciona sobre el navegador. Es de software libre y está pensado tanto para principiantes como expertos.",
+    "get-started-title": "Para comenzar a usarlo:",
     "get-started-list": [
-      null,
-      null,
-      null
+      "Cierra esta ventana",
+      "Cambia algunos números",
+      "Haz Ctrl + Shift + Enter"
     ],
-    "features-list": [
-      null,
-      null,
-      null,
-      null,
-      null
-    ]
+    "description-detailed": "Hydra está escrito en JavaScript y compila a WebGL para generar visuales. La sintaxis del mismo está inspirada en la síntesis de video analógica y modular, donde se generan visuales a través de la interconexión de señales con distintas transformaciones.",
+    "uses": "Hydra se puede usar para:",
+    "uses-list": [
+      "mezclar y añadir efectos a las imágenes de una camara, una pantalla, un stream o videos",
+      "crear visuales generativas y audio reactivas, y compartirlas en internet con otras personas",
+      "usarse en combinación con otras liberías de JavaScript tales como p5.js, Tone.js, THREE.js o gibber",
+      "añadir efectos de video interactivos en un website",
+      "experimentar y aprender sobre retroalimentación de video (feedback), fractales u otras operaciones visuales",
+      "streamear video entre navegadores y codear en vivo con otras personas a través de internet"
+    ],
+    "author": "Creado por <a {{author}}>olivia.</a>",
+    "more-info": "Para más información e instructivos puedes visitar: <a {{docs}}>la documentación interactiva</a>, <a {{functions}}>una lista de funciones en Hydra</a>, <a {{garden}}>la base de datos comunitaria de proyectos y tutoriales</a>, <a {{gallery}}>una galería de sketches hechos por usuarios</a>, y <a {{repo}}>código fuente en github</a>,",
+    "more-info-forums": "También puedes visitar el <a {{discord}}>servidor de Discord</a> y <a {{facebook}}>el grupo de Facebook</a> para usuarios y contribuidores de Hydra.",
+    "support": "Si disfrutas de Hydra, por favor considera <a {{open-collective}} >contribuir a su desarrollo <3 </a>."
   }
 }
