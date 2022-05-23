@@ -32,6 +32,6 @@
         "author": "تم انتاج هيدرا على يد <a {{author}}>olivia.</a>",
         "more-info": "لمزيد من المعلومات والتعليمات حول الاستخدام <a {{docs}}>the interactive documentation</a>, <a {{functions}}>a list of hydra functions</a>, <a {{garden}}>the community database of projects and tutorials</a>, <a {{gallery}}>a gallery of user-generated sketches</a>, و <a {{repo}}>the source code on github</a>,",
         "more-info-forums": "هناك أيضاً مخدم ديسكورد نشط <a {{discord}}>Discord server</a> وصفحة على الفيسبوك لمستخدمي ومطوري هيدرا <a {{facebook}}>facebook group</a> ",
-        "support": "إذا وجدت استخدام هيدرا ممتعاً، نرجو منك النظر في دعم الجهد المتواصل للتطوير<a {{open-collective}} <3 </a>."
+        "support": "إذا وجدت استخدام هيدرا ممتعاً، نرجو منك النظر في دعم الجهد المتواصل للتطوير<a {{open-collective}}> <3 </a>."
 }
 }
