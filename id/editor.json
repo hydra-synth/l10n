@@ -1,0 +1,37 @@
+{
+      "language-name": "Bahasa Indonesia",
+      "toolbar": {
+        "run": "Jalankan seluruh kode (ctrl+shift+enter)",
+        "upload": "mengunggah ke galeri",
+        "clear": "bersihkan seluruh kode",
+        "shuffle": "tunjukan sketsa acak",
+        "random": "buat perubahan acak",
+        "show-info": "munculkan tampilan informasi",
+        "hide-info": "sembunyikan tampilan informasi"
+      },
+      "info": {
+        "title": "hydra",
+        "subtitle": "pengkodean sintesis video secara langsung",
+        "description": "Hydra merupakan sebuah platform penyintesis video berbasis pengkodean secara langsung (live coding) yang dapat diakses di dalam peramban (browser). Hydra dapat diakses secara gratis dan merupakan sebuah open-source yang dibuat untuk para pemula dan pakar.",
+        "get-started-title": "Untuk memulai:",
+        "get-started-list": [
+          "Tutup tampilan ini",
+          "Ubah beberapa angka",
+          "Ketik Ctrl + Shift + Enter"
+        ],
+        "description-detailed": "Hydra ditulis dengan bahasa JavaScript dan tersusun pada WebGL secara internal. Sintaks pada Hydra terinspirasi oleh sintesis modular analog, dimana perangkaian dan penambalan sebuah set transformasi secara bersamaan menghasilkan sebuah hasil visual.",
+        "uses": "Hydra dapat digunakan:",
+        "uses-list": [
+          "untuk mencampur dan menambahkan efek pada tampilan hasil sorot kamera, layar, siaran langsung (live stream), dan video",
+          "untuk membuat visual generatif dan audio-reaktif, dan membagikannya secara online dengan orang lain",
+          "dalam kombinasinya dengan pustaka (libraries) javascript lain seperti P5.js, Tone.js, THREE.js, atau gibber",
+          "untuk menambahkan efek video interaktif pada sebuah situs web",
+          "untuk bereksperimen dan belajar tentang umpan balik (feedback) video, fraktal, dan operasi piksel",
+          "untuk siaran video antar peramban (browser) dan berkolaborasi bersama dengan orang lain secara online"
+        ],
+        "author": "Dibuat oleh <a {{author}}>olivia.</a>",
+        "more-info": "Untuk informasi dan instruksi lebih lanjut, lihat: <a {{docs}}>dokumentasi interaktif</a>, <a {{functions}}>daftar fungsi (functions) hydra</a>, <a {{garden}}>basis data proyek dan tutorial oleh komunitas</a>, <a {{gallery}}>galeri kumpulan sketsa yang dibuat pengguna</a>, dan <a {{repo}}>kode sumber (source code) di github</a>,",
+        "more-info-forums": "Ada pula <a {{discord}}>server Discord</a> dan <a {{facebook}}>grup facebook</a> yang aktif untuk para pengguna+kontributor hydra.",
+        "support": "Jika anda menikmati dalam menggunakan Hydra, mohon pertimbangannya untuk <a {{open-collective}} >mendukung kami demi pengembangan lebih lanjut <3 </a>."
+}
+}
