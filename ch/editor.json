@@ -1,5 +1,4 @@
-{
-  "translation": {
+ {
     "language-name": "中文",
     "toolbar": {
       "run": "執行所有程式碼 (ctrl+shift+enter)",
@@ -36,4 +35,4 @@
       "support": "如果你喜歡使用Hydra，也請歡迎加入<a {{open-collective}} >支持我們的開發<3 </a>."
     }
   }
-}
+
