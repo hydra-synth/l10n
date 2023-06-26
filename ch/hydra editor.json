@@ -1,0 +1,39 @@
+{
+  "translation": {
+    "language-name": "中文",
+    "toolbar": {
+      "run": "執行所有程式碼 (ctrl+shift+enter)",
+      "upload": "上傳到範例庫",
+      "clear": "清除所有",
+      "shuffle": "顯示隨機範例",
+      "random": "隨機改變數值",
+      "show-info": "顯示資訊視窗",
+      "hide-info": "隱藏資訊視窗"
+    },
+    "info": {
+      "title": "hydra",
+      "subtitle": "實時視覺編寫程式",
+      "description": "Hydra是一個直接在瀏覽器中運行的實時視覺編寫程式，他是免費開源的，並且同時適合初學者跟專業視覺工作者使用",
+      "get-started-title": "使用方式：",
+      "get-started-list": [
+        "關閉這個視窗",
+        "改變一些數值",
+        "按下Ctrl + Shift + Enter來執行"
+      ],
+      "description-detailed": "Hydra使用JavaScript編寫，並使用WebGL編譯。Hydra的API是模擬合成器的訊號轉換方式，透過將信號源（振盪器、相機畫面、或者螢幕擷取等）連接不同的的合成器特效進行轉換、調整、與編排",
+      "uses": "Hydra適用於下列用途:",
+      "uses-list": [
+        "混合相機畫面、螢幕分享、直播與為影像加上特效",
+        "創造生成視覺、與結合聲音互動的影像，並線上與他人分享",
+        "與其他Javascript的資料庫結合，例如：P5.js, Tone.js, THREE.js,或者gibber",
+        "賦予網站互動式的視覺影像",
+        "實驗與學習影像回授、碎形、與像素操作",
+        "在不同瀏覽器之間直播影像、即時線上與他人合作即興編寫"
+      ],
+      "author": "創作者：<a {{author}}>olivia.</a>",
+      "more-info": "更多資訊與指南，請見： <a {{docs}}>互動線上紀錄文件</a>, <a {{functions}}>Hydra的各種Function清單</a>, <a {{garden}}應用實例與教學的社群資料庫</a>, <a {{gallery}}>線上使用者的範例庫</a>，與 <a {{repo}}>Github上的原始碼</a>,",
+      "more-info-forums": "同時我們有為了Hydra使用者與開發者的活躍的Discord社群<a {{discord}}>Discord server</a>與<a {{facebook}}>Ｆacebook社團</a>",
+      "support": "如果你喜歡使用Hydra，也請歡迎加入<a {{open-collective}} >支持我們的開發<3 </a>."
+    }
+  }
+}
