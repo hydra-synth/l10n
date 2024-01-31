@@ -1,0 +1,36 @@
+{
+    "language-name": "deutsch",
+    "toolbar": {
+        "run": "Allen Code ausführen (strg+umschalt+enter)",
+        "upload": "Zur Gallerie hinzufügen",
+        "clear": "Alles löschen",
+        "shuffle": "Zufälliger Sketch",
+        "random": "Zufällige Veränderung",
+        "show-info": "Infofenster anzeigen",
+        "hide-info": "Infofenster minimieren"
+    },
+    "info": {
+        "title": "hydra",
+        "subtitle": "Live Coding für vernetzte visuals",
+        "description": "Hydra ist eine Plattform zum Live-Coden von Visuals, bei der jedes angeschlossene Browserfenster als Knotenpunkt eines modularen und verteilten Videosynthesizers verwendet werden kann.",
+        "get-started-title": "Erste Schritte:",
+        "get-started-list": [
+            "Schließe dieses Fenster",
+            "Verändere ein paar Werte",
+            "Drücke strg+umschalt+enter"
+        ],
+        "description-detailed": "Auf der Grundlage von WebRTC (Peer-to-Peer-Webstreaming) und WebGL ermöglicht Hydra jedem angeschlossenen Browser/Gerät/Person die Ausgabe eines Videosignals oder -streams sowie den Empfang und die Veränderung von Streams von anderen Browsern/Geräten/Personen. Die API ist von der analogen modularen Synthese inspiriert, bei der mehrere visuelle Quellen (Oszillatoren, Kameras, Anwendungsfenster, andere verbundene Fenster) durch Kombination transformiert, moduliert und zusammengesetzt werden können.",
+        "features": "Funktionen:",
+        "features-list": [
+            "Geschrieben in Javascript und kompatibel mit anderen Javascript Bibliotheken",
+            "Verfügbar als Platform sowie als Set eigenständiger Module",
+            "Plattformübergreifend und benötigt keine Installation (läuft im Browser)",
+            "Auch als Atom-Paket verfügbar für Live-Coding mit dem Texteditor",
+            "Experimentell und nie stetig !!"
+        ],
+        "author": "Erstellt von <a {{author}}>olivia.</a>",
+        "more-info": "Für weitere Informationen und Anleitungen: <a {{docs}}>die online Dokumentation</a>, <a {{functions}}>eine Liste von Hydra Funktionen</a>, <a {{repo}}>der Quellcode auf GitHub</a>, <a {{gallery}}>Eine Gallerie von benutzererstellten Sketches</a>, <a {{pixeljam}}>PIXELJAM kollaborativer Editor</a>, <a {{hydra-book}}>Hydra Buch</a>, und mehr <a {{tutorials}}>Tutorials und Beispiele.</a>",
+        "more-info-forums": "Es gibt einen aktiven <a {{discord}}>Discord Server</a> und eine <a {{facebook}}>Facebook Gruppe</a> für Hydra Benutzer:innen und Mitwirkende.",
+        "support": "Falls dir Hydra gefällt, vielleicht möchtest du dann die <a {{open-collective}} >kontinuierliche Entwicklung unterstützen <3 </a>."
+    }
+}
