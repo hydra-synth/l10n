@@ -1,0 +1,37 @@
+{
+    "language-name": "deutsch",
+    "toolbar": {
+        "run": "Allen Code ausführen (strg+umschalt+enter)",
+        "upload": "Zur Gallerie hinzufügen",
+        "clear": "Alles löschen",
+        "shuffle": "Zufälliger Sketch",
+        "random": "Zufällige Veränderung",
+        "show-info": "Infofenster anzeigen",
+        "hide-info": "Infofenster minimieren"
+    },
+    "info": {
+        "title": "hydra",
+        "subtitle": "Live-Coding für vernetzte Visuals",
+        "description": "Hydra ist eine Live-Coding-Plattform für Visuals, bei der jedes angeschlossene Browserfenster als Knotenpunkt eines modularen und verteilten Videosynthesizers verwendet werden kann.",
+        "get-started-title": "Erste Schritte:",
+        "get-started-list": [
+            "Schließe dieses Fenster",
+            "Verändere ein paar Werte",
+            "Drücke strg+umschalt+enter"
+        ],
+        "description-detailed": "Auf der Grundlage von WebRTC (Peer-to-Peer-Webstreaming) und WebGL ermöglicht Hydra jedem angeschlossenen Browser/Gerät/Person die Ausgabe eines Videosignals oder -streams, sowie den Empfang und die Veränderung von Streams von anderen Browsern/Geräten/Personen. Die API ist von der analogen, modularen Synthese inspiriert, bei der mehrere visuelle Quellen (Oszillatoren, Kameras, Anwendungsfenster, andere verbundene Fenster) durch Kombination transformiert, moduliert und zusammengesetzt werden können.",
+        "uses": "Hydra kann genutzt werden um:",
+        "uses-list": [
+            "Kamerastreams, Bildschirmfreigaben, Live-Streams und Videos zu mischen und Effekte hinzuzufügen",
+            "generative und audioreaktive Visuals zu erstellen und online zu teilen",
+            "andere JavaScript-Bibliotheken wie P5.js, Tone.js, THREE.js oder gibber zu kombinieren",
+            "interaktive Videoeffekte zu Webseiten hinzuzufügen",
+            "Video-Feedback, Fraktale und Pixeloperationen zu erlernen und damit zu experimentieren",
+            "Videos zwischen Browsern zu streamen und live mit anderen online zu coden"
+        ],
+        "author": "Erstellt von <a {{author}}>olivia.</a>",
+        "more-info": "Für weitere Informationen und Anleitungen, siehe: <a {{docs}}>die interaktive Dokumentation</a>, <a {{functions}}>eine Liste von Hydra-Funktionen</a>, <a {{garden}}>eine Kollektion von Tutorials und Projekten der Community</a>, <a {{gallery}}>eine Galerie hochgeladener Sketches</a> und <a {{repo}}>den Quellcode auf GitHub</a>.",
+        "more-info-forums": "Es gibt einen aktiven <a {{discord}}>Discord-Server</a> und eine <a {{facebook}}>Facebook-Gruppe</a> für Benutzer:innen und Mitwirkende.",
+        "support": "Falls dir Hydra gefällt, freuen wir uns über eine kleine <a {{open-collective}} >Unterstützung für die kontinuierliche Entwicklung <3 </a>."
+    }
+}
